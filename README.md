@@ -18,5 +18,8 @@ Some of the sheets used in this material:
 >[Assiut ICPC standard Juniors training](https://codeforces.com/group/c3FDl9EUi9/contests)
 >
 >[Assiut ICPC Juniors  training](https://codeforces.com/group/3nQaj5GMG5/contests)
+>
+##
+>[Our Session-by-session Contest Group](https://vjudge.net/group/winHack#google_vignette)
 
 You can find all lectures' slides on this Drive: [WinterHack Mind-Forge](https://drive.google.com/drive/folders/1O67oEn8x2mw2gtaqF-tYYTi-u2FxTdNe?usp=drive_link)
